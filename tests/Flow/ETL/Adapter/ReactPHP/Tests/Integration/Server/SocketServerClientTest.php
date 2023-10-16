@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Flow\ETL\Async\Tests\Integration\ReactPHP\Server;
+namespace Flow\ETL\Adapter\ReactPHP\Tests\Integration\Server;
 
 use function Flow\ETL\DSL\lit;
 use Flow\ETL\Async\ReactPHP\Server\SocketServer;

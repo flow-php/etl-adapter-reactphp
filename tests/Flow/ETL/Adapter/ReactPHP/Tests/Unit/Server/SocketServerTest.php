@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Flow\ETL\Async\Tests\Unit\ReactPHP\Server;
+namespace Flow\ETL\Adapter\ReactPHP\Tests\Unit\Server;
 
 use Flow\ETL\Async\ReactPHP\Server\SocketServer;
 use Flow\ETL\Exception\InvalidArgumentException;
